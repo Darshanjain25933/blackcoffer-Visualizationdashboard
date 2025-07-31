@@ -1,29 +1,34 @@
 # Blackcoffer Visualization Dashboard
 
-A modern, interactive data visualization dashboard built with React, Vite, TypeScript, Tailwind CSS, and Shadcn UI.  
-Live Demo: [https://blackcoffer-visualizationdashboard.netlify.app/](https://blackcoffer-visualizationdashboard.netlify.app/)
+A modern, interactive data visualization dashboard built with React, Vite, TypeScript, Tailwind CSS, and Shadcn UI.
+
+> 📢 **Note:** This project is strictly for internal assignment submission. Do not upload to public repositories or share publicly as per Blackcoffer's instructions.
 
 ---
 
 ## 🚀 Features
 
-- Dynamic data loading from JSON
-- Interactive charts and analytics (Recharts)
-- Region and sector filtering
-- Responsive design
-- Modern UI with Tailwind CSS and Shadcn UI
-- Built with Vite for fast development
+- 📊 Dynamic data loading from JSON  
+- 📈 Interactive charts and analytics using Recharts  
+- 🌍 Filter data by Region, Sector, Country, and Topic  
+- 💻 Responsive design  
+- 🎨 Clean, modern UI with Tailwind CSS and Shadcn UI  
+- ⚡ Built with Vite for fast development experience  
 
 ---
 
 ## 📦 Getting Started
 
-### 1. Clone the repository
+### 1. Extract the project
+
+If downloaded as a ZIP file, extract it and open in your code editor.
+
+Or, if using a private Git repo:
 
 ```bash
-git clone https://github.com/Darshanjain25933/blackcoffer-Visualizationdashboard.git
-cd blackcoffer-Visualizationdashboard
-```
+git clone <your-private-repo-url>
+cd blackcoffer-visualizationdashboard
+
 
 ### 2. Install dependencies
 
@@ -83,10 +88,7 @@ The production-ready files will be in the `dist` folder.
 
 ---
 
-## 🌐 Deployment
 
-This project is deployed on Netlify:  
-[https://blackcoffer-visualizationdashboard.netlify.app/](https://blackcoffer-visualizationdashboard.netlify.app/)
 
 To deploy your own version:
 - Push your code to GitHub
